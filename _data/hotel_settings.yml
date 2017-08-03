@@ -1,0 +1,16 @@
+---
+_hotel_id: HOL916
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
+latitude: 51.51453
+longitude: -0.0573
+name: Holiday Inn London - Whitechapel
+email: victor@traveltripper.com
+phone_number: 001-111-1111
+address:
+  street1: 5 Cavell Street
+  street2: ''
+  state: ''
+  city: London
+  country: 
+  zip_code: E12BP

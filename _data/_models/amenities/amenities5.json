@@ -1,2 +1,5 @@
-{"name":"Amenity 5",
-  "order": 5}
+{
+  "name": "Coffee/tea in common areas",
+  "order": 5,
+  "hidden": false
+}

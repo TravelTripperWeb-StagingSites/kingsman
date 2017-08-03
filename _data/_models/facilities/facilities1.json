@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Satisfy your appetite at the hotel&apos;s restaurant, which serves breakfast, lunch, and dinner. Dining is also available at a coffee ",
+  "order": 1,
+  "hidden": false
 }
